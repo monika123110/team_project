@@ -1,1 +1,4 @@
-ghdffgh
+int main()
+{
+printf("hell to git");
+}
